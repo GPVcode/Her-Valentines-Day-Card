@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Her Valentine's Day Card
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Her Valentine's Day Card**! 🎉 This charming little project is where love meets code, creating a delightful experience just in time for Valentine's Day. Whether you're a hopeless romantic or just in love with coding, you're in the right place!
 
-## Available Scripts
+![Valentine's Day](https://her-valentines-day-card.vercel.app/)
 
-In the project directory, you can run:
+## About The Project
 
-### `npm start`
+**Her Valentine's Day Card** is a heartfelt attempt to blend technology with affection, offering a unique way to express your feelings this Valentine's Day. From interactive buttons that playfully negotiate your response to a cascade of confetti celebrating your affirmative answer, every bit of this project is sprinkled with love.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Built With Love Using:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- Material-UI
+- A sprinkle of magic ✨
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Engage in Romance**: Interactive UI that playfully nudges you towards the desired answer.
+- **Visual Delight**: Experience the joy of celebration with a burst of confetti.
+- **Personal Touch**: Custom messages that add a personal flair to your interactions.
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get a local copy up and running, clone this repo and follow the heartbeats... Just kidding! Follow the setup instructions provided in our documentation.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How to Contribute
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Caught the love bug? Feel free to contribute to **Her Valentine's Day Card**:
 
-### `npm run eject`
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Distributed under the MIT License. See `LICENSE` for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Show Your Love
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+If you enjoyed this little project, why not star the repository? It's a great way to show your appreciation and spread the love!
 
-## Learn More
+## Acknowledgments
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Cupid, for the inspiration.
+- All the wonderful hearts out there coding their dreams into reality.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with ❤️ by Gabriel Villaruel
